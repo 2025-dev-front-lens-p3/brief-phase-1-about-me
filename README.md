@@ -17,32 +17,10 @@ L’objectif est de créer un mini site personnel composé de plusieurs pages HT
 Vous débutez votre parcours de développeur·se front-end. Votre première mission consiste à **présenter votre profil professionnel** via un mini site vitrine.  
 Ce site permettra de montrer vos premières compétences techniques tout en partageant qui vous êtes, vos aspirations, vos compétences et vos centres d’intérêt.
 
----
-
-## 🛠️ Geste professionnel attendu
-
-- Structurer une interface avec du code HTML sémantique  
-- Styliser une interface responsive en CSS  
-- Ajouter une fonctionnalité interactive simple en JavaScript  
-- Utiliser GitHub pour versionner et publier son projet
-
----
-
 ## 🎓 Compétences visées
 
 - [x] **C1** : Développer une interface utilisateur web dynamique *(niveau 1)*  
 - [x] **C2** : Réaliser une interface utilisateur web statique et adaptable *(niveau 1)*
-
----
-
-## 📚 Ressources utiles
-
-- [Structure d’une page HTML (MDN)](https://developer.mozilla.org/fr/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)  
-- [Apprendre le CSS (MDN)](https://developer.mozilla.org/fr/docs/Web/CSS)  
-- [Premiers pas en JavaScript (MDN)](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps)  
-- [Publier avec GitHub Pages](https://pages.github.com/)  
-- [Palette de couleurs (Coolors)](https://coolors.co/)  
-- [Icônes libres (FontAwesome)](https://fontawesome.com/icons)
 
 ---
 
@@ -56,6 +34,17 @@ Ce projet est découpé en étapes que vous réalisez à votre rythme :
 4. Styliser les pages avec un design responsive  
 5. Ajouter une fonctionnalité JavaScript (ex : changer de thème, horloge…)  
 6. Versionner le projet avec Git et publier sur GitHub Pages
+
+---
+
+## 📚 Ressources utiles
+
+- [Structure d’une page HTML (MDN)](https://developer.mozilla.org/fr/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)  
+- [Apprendre le CSS (MDN)](https://developer.mozilla.org/fr/docs/Web/CSS)  
+- [Premiers pas en JavaScript (MDN)](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps)  
+- [Publier avec GitHub Pages](https://pages.github.com/)  
+- [Palette de couleurs (Coolors)](https://coolors.co/)  
+- [Icônes libres (FontAwesome)](https://fontawesome.com/icons)
 
 ---
 
@@ -84,9 +73,9 @@ git push origin develop
 
 ---
 
-## 📆 Date de rendu
+## 📆 Deadline
 
-📅 À remettre pour le : **[à définir ensemble]**
+📅 7 jours ouvrés
 
 ---
 
