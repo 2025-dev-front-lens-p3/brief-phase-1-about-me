@@ -35,13 +35,13 @@ Ce site permettra de montrer vos premières compétences techniques tout en part
 
 ---
 
-## 📚 Ressources utiles (facultatives)
+## 📚 Ressources utiles
 
 - [Structure d’une page HTML (MDN)](https://developer.mozilla.org/fr/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)  
-- [Apprendre le CSS (MDN)](https://developer.mozilla.org/fr/docs/Learn/CSS)  
+- [Apprendre le CSS (MDN)](https://developer.mozilla.org/fr/docs/Web/CSS)  
 - [Premiers pas en JavaScript (MDN)](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps)  
 - [Publier avec GitHub Pages](https://pages.github.com/)  
-- [Palette de couleurs (Coolors)](https://coolors.co/fr)  
+- [Palette de couleurs (Coolors)](https://coolors.co/)  
 - [Icônes libres (FontAwesome)](https://fontawesome.com/icons)
 
 ---
