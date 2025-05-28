@@ -124,5 +124,4 @@ git push origin develop
 
 ## ✍️ Auteurs, contributeurs
 
-- Formateur·rice : [à compléter]  
-- Contributeur·rice·s : [à compléter]
+- [Rémy Cottrez](https://github.com/Azur-tsx)
