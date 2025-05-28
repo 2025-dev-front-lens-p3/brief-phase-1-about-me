@@ -1,4 +1,4 @@
-# 🧩 Brief — À propos de moi
+# 🟢 Brief — À propos de moi
 
 Langue : Français  
 Métier visé : Développeur·se Front-End  
